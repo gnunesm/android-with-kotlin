@@ -6,4 +6,6 @@
     <string name="bio">Hi, my name is Gabriel.
 \n\nI like to read and play video games.
 \n\nAmong other less important things.\n\n</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
