@@ -2,4 +2,8 @@
     <string name="app_name">About Me</string>
     <string name="name">Gabriel Nunes</string>
     <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">Hi, my name is Gabriel.
+\n\nI like to read and play video games.
+\n\nAmong other less important things.\n\n</string>
 </resources>
